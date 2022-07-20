@@ -1,4 +1,5 @@
 # Bankmoviment
 Movimentacões bancarias
 Criar um app para acompanhar movimentacoes bancárias pessoais e de empresas
-Acompanhar o gráfico das transacoes investimentos débitos/creditos /incluindo opcoes de consulta por categoria
+Movimentacoes de investimentos  / debitos e creditos / com opção de consukta por categoria
+Acompanhamento por  opcao de graficos
